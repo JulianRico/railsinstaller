@@ -1,0 +1,7 @@
+al correr shoppe te dara error al arrancar el login en la linea
+
+= javascript_include_tag 'shoppe/application'
+
+solo hay que decirle al sistema que es true.
+= javascript_include_tag 'shoppe/application' => true 
+y listo corre correctamente.
